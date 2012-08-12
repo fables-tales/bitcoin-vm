@@ -3,6 +3,7 @@
 this is my bitcoin testing vm. It is awesome.
 
 Install like this
+
     gem install vagrant
     vagrant up --provision
     vagrant ssh
